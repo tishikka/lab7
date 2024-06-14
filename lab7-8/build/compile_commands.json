@@ -1,0 +1,38 @@
+[
+{
+  "directory": "C:/proga/lab7/lab7-8/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IC:/proga/lab7/lab7-8 -isystem C:/proga/lab7/lab7-8/build/_deps/googletest-src/googletest/include -isystem C:/proga/lab7/lab7-8/build/_deps/googletest-src/googletest -g -std=gnu++17 -Wall -Wextra -pedantic -Werror -g -o gtests\\CMakeFiles\\tests.dir\\tests.cpp.obj -c C:\\proga\\lab7\\lab7-8\\gtests\\tests.cpp",
+  "file": "C:\\proga\\lab7\\lab7-8\\gtests\\tests.cpp",
+  "output": "gtests\\CMakeFiles\\tests.dir\\tests.cpp.obj"
+},
+{
+  "directory": "C:/proga/lab7/lab7-8/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IC:/proga/lab7/lab7-8 -isystem C:/proga/lab7/lab7-8/build/_deps/googletest-src/googletest/include -isystem C:/proga/lab7/lab7-8/build/_deps/googletest-src/googletest -g -std=gnu++17 -Wall -Wextra -pedantic -Werror -g -o gtests\\CMakeFiles\\tests.dir\\__\\border.cpp.obj -c C:\\proga\\lab7\\lab7-8\\border.cpp",
+  "file": "C:\\proga\\lab7\\lab7-8\\border.cpp",
+  "output": "gtests\\CMakeFiles\\tests.dir\\__\\border.cpp.obj"
+},
+{
+  "directory": "C:/proga/lab7/lab7-8/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IC:/proga/lab7/lab7-8/build/_deps/googletest-src/googlemock/include -IC:/proga/lab7/lab7-8/build/_deps/googletest-src/googlemock -isystem C:/proga/lab7/lab7-8/build/_deps/googletest-src/googletest/include -isystem C:/proga/lab7/lab7-8/build/_deps/googletest-src/googletest -g -std=c++17 -Wall -Wshadow -Werror -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -Wall -Wextra -pedantic -Werror -g -o _deps\\googletest-build\\googlemock\\CMakeFiles\\gmock.dir\\src\\gmock-all.cc.obj -c C:\\proga\\lab7\\lab7-8\\build\\_deps\\googletest-src\\googlemock\\src\\gmock-all.cc",
+  "file": "C:\\proga\\lab7\\lab7-8\\build\\_deps\\googletest-src\\googlemock\\src\\gmock-all.cc",
+  "output": "_deps\\googletest-build\\googlemock\\CMakeFiles\\gmock.dir\\src\\gmock-all.cc.obj"
+},
+{
+  "directory": "C:/proga/lab7/lab7-8/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -isystem C:/proga/lab7/lab7-8/build/_deps/googletest-src/googlemock/include -isystem C:/proga/lab7/lab7-8/build/_deps/googletest-src/googlemock -isystem C:/proga/lab7/lab7-8/build/_deps/googletest-src/googletest/include -isystem C:/proga/lab7/lab7-8/build/_deps/googletest-src/googletest -g -std=c++17 -Wall -Wshadow -Werror -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -Wall -Wextra -pedantic -Werror -g -o _deps\\googletest-build\\googlemock\\CMakeFiles\\gmock_main.dir\\src\\gmock_main.cc.obj -c C:\\proga\\lab7\\lab7-8\\build\\_deps\\googletest-src\\googlemock\\src\\gmock_main.cc",
+  "file": "C:\\proga\\lab7\\lab7-8\\build\\_deps\\googletest-src\\googlemock\\src\\gmock_main.cc",
+  "output": "_deps\\googletest-build\\googlemock\\CMakeFiles\\gmock_main.dir\\src\\gmock_main.cc.obj"
+},
+{
+  "directory": "C:/proga/lab7/lab7-8/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IC:/proga/lab7/lab7-8/build/_deps/googletest-src/googletest/include -IC:/proga/lab7/lab7-8/build/_deps/googletest-src/googletest -g -std=c++17 -Wall -Wshadow -Werror -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -Wall -Wextra -pedantic -Werror -g -o _deps\\googletest-build\\googletest\\CMakeFiles\\gtest.dir\\src\\gtest-all.cc.obj -c C:\\proga\\lab7\\lab7-8\\build\\_deps\\googletest-src\\googletest\\src\\gtest-all.cc",
+  "file": "C:\\proga\\lab7\\lab7-8\\build\\_deps\\googletest-src\\googletest\\src\\gtest-all.cc",
+  "output": "_deps\\googletest-build\\googletest\\CMakeFiles\\gtest.dir\\src\\gtest-all.cc.obj"
+},
+{
+  "directory": "C:/proga/lab7/lab7-8/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -isystem C:/proga/lab7/lab7-8/build/_deps/googletest-src/googletest/include -isystem C:/proga/lab7/lab7-8/build/_deps/googletest-src/googletest -g -std=c++17 -Wall -Wshadow -Werror -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -Wall -Wextra -pedantic -Werror -g -o _deps\\googletest-build\\googletest\\CMakeFiles\\gtest_main.dir\\src\\gtest_main.cc.obj -c C:\\proga\\lab7\\lab7-8\\build\\_deps\\googletest-src\\googletest\\src\\gtest_main.cc",
+  "file": "C:\\proga\\lab7\\lab7-8\\build\\_deps\\googletest-src\\googletest\\src\\gtest_main.cc",
+  "output": "_deps\\googletest-build\\googletest\\CMakeFiles\\gtest_main.dir\\src\\gtest_main.cc.obj"
+}
+]

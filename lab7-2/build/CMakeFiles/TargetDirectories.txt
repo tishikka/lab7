@@ -1,0 +1,9 @@
+C:/proga/lab7/lab7-2/build/CMakeFiles/test.dir
+C:/proga/lab7/lab7-2/build/CMakeFiles/edit_cache.dir
+C:/proga/lab7/lab7-2/build/CMakeFiles/rebuild_cache.dir
+C:/proga/lab7/lab7-2/build/tests/CMakeFiles/test1.dir
+C:/proga/lab7/lab7-2/build/tests/CMakeFiles/test2.dir
+C:/proga/lab7/lab7-2/build/tests/CMakeFiles/test3.dir
+C:/proga/lab7/lab7-2/build/tests/CMakeFiles/test.dir
+C:/proga/lab7/lab7-2/build/tests/CMakeFiles/edit_cache.dir
+C:/proga/lab7/lab7-2/build/tests/CMakeFiles/rebuild_cache.dir

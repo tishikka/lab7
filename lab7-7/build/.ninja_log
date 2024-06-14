@@ -1,0 +1,24 @@
+# ninja log v5
+163	9879	7400910616825076	_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj	6e4e94d9a3e0548f
+9	10391	7400910623033371	gtests/CMakeFiles/tests.dir/tests.cpp.obj	68b3b6224436d773
+65	11210	7400910631331250	_deps/googletest-build/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.obj	1357985635122ddb
+44	15437	7400910674079308	_deps/googletest-build/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.obj	b343eca900f5e8e1
+113	27348	7400910792963515	_deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj	cd1fcda8d60e2005
+51	755	7400910815172280	lib/libgtestd.a	23e460d5beed6707
+781	1577	7400910823067169	lib/libgtest_maind.a	d352a4e729665cb9
+756	1754	7400910825232775	lib/libgmockd.a	bbffc48d62cd2b12
+44	346	7400910907505739	lib/libgmock_maind.a	4903a5ffdee1ebff
+24	1140	7400911012816862	gtests/CMakeFiles/tests.dir/__/task7.cpp.obj	265e85cc60e31310
+1142	1951	7400911020727522	gtests/tests.exe	e844c3c260ca0c75
+31	1134	7400911419145408	gtests/CMakeFiles/tests.dir/__/task7.cpp.obj	265e85cc60e31310
+1135	1970	7400911427398002	gtests/tests.exe	e844c3c260ca0c75
+24	1209	7400912187465411	gtests/CMakeFiles/tests.dir/__/task7.cpp.obj	265e85cc60e31310
+1210	2082	7400912196054031	gtests/tests.exe	e844c3c260ca0c75
+22	1235	7400913014414476	gtests/CMakeFiles/tests.dir/__/task7.cpp.obj	265e85cc60e31310
+1235	2160	7400913023508560	gtests/tests.exe	e844c3c260ca0c75
+22	1213	7400913384163765	gtests/CMakeFiles/tests.dir/__/task7.cpp.obj	265e85cc60e31310
+1215	2292	7400913394667739	gtests/tests.exe	e844c3c260ca0c75
+23	1286	7400919031105669	gtests/CMakeFiles/tests.dir/__/task7.cpp.obj	265e85cc60e31310
+1287	2332	7400919041366465	gtests/tests.exe	e844c3c260ca0c75
+19	1162	7400919234683731	gtests/CMakeFiles/tests.dir/__/task7.cpp.obj	265e85cc60e31310
+1163	2137	7400919244294716	gtests/tests.exe	e844c3c260ca0c75

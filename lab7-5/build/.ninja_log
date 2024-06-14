@@ -1,0 +1,24 @@
+# ninja log v5
+21	244	7395402550130519	CMakeFiles/laba.dir/grid_traversal.cpp.obj	757c3cd2706869f0
+6	738	7395402555079307	CMakeFiles/laba.dir/main.cpp.obj	da1385c5a5f42fbe
+741	1119	7395402558824823	laba.exe	7285858d7e68dd89
+26	1052	7400941638688806	gtests/CMakeFiles/tests.dir/__/grid_traversal.cpp.obj	b8830f63912dee4c
+130	7389	7400941701586748	_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj	d1b344acb76adc85
+61	8478	7400941711513506	_deps/googletest-build/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.obj	6876999090973872
+42	13127	7400941760424356	_deps/googletest-build/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.obj	30cdd600cbcdaee9
+77	24026	7400941869302002	_deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj	331f5d01ecbdb98e
+36	589	7400942235152780	lib/libgtestd.a	23e460d5beed6707
+614	966	7400942238925459	lib/libgtest_maind.a	d352a4e729665cb9
+589	1006	7400942239300066	lib/libgmockd.a	bbffc48d62cd2b12
+1006	1291	7400942242212557	lib/libgmock_maind.a	4903a5ffdee1ebff
+18	3439	7400942263574617	gtests/CMakeFiles/tests.dir/tests.cpp.obj	7fb732aabfb0b81e
+3440	4241	7400942271534879	gtests/tests.exe	b44007c569b24e7b
+23	2956	7400942773017205	gtests/CMakeFiles/tests.dir/tests.cpp.obj	7fb732aabfb0b81e
+2957	3934	7400942782683589	gtests/tests.exe	b44007c569b24e7b
+19	257	7400943304011296	gtests/CMakeFiles/tests.dir/__/grid_traversal.cpp.obj	b8830f63912dee4c
+259	1619	7400943317577171	gtests/tests.exe	b44007c569b24e7b
+21	2946	7400943831940995	gtests/CMakeFiles/tests.dir/tests.cpp.obj	7fb732aabfb0b81e
+2947	3742	7400943839727889	gtests/tests.exe	b44007c569b24e7b
+26	2897	7400945218107815	gtests/CMakeFiles/tests.dir/tests.cpp.obj	7fb732aabfb0b81e
+17	393	7400945754374723	gtests/CMakeFiles/tests.dir/__/grid_traversal.cpp.obj	b8830f63912dee4c
+393	1268	7400945762917778	gtests/tests.exe	b44007c569b24e7b

@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/proga/lab7/lab7-1/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -g -std=gnu++11 -o CMakeFiles\\mop_logic.dir\\mop_logic.cpp.obj -c C:\\proga\\lab7\\lab7-1\\mop_logic.cpp",
+  "file": "C:\\proga\\lab7\\lab7-1\\mop_logic.cpp",
+  "output": "CMakeFiles\\mop_logic.dir\\mop_logic.cpp.obj"
+},
+{
+  "directory": "C:/proga/lab7/lab7-1/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -g -std=gnu++11 -o CMakeFiles\\test_assert.dir\\test_assert.cpp.obj -c C:\\proga\\lab7\\lab7-1\\test_assert.cpp",
+  "file": "C:\\proga\\lab7\\lab7-1\\test_assert.cpp",
+  "output": "CMakeFiles\\test_assert.dir\\test_assert.cpp.obj"
+}
+]

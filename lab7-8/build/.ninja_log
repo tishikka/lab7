@@ -1,0 +1,12 @@
+# ninja log v5
+35	4397	7400926371933839	gtests/CMakeFiles/tests.dir/__/border.cpp.obj	cc874ebf506fabd6
+151	7645	7400926404502991	_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj	ac3c12d34442714e
+14	7936	7400926407314259	gtests/CMakeFiles/tests.dir/tests.cpp.obj	6b9456b01f1f832d
+74	8700	7400926415664790	_deps/googletest-build/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.obj	36fe742cd9bfaa0d
+56	13126	7400926460416868	_deps/googletest-build/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.obj	972a8f92c18c3d87
+94	23107	7400926560107448	_deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj	f8e76c33f72b77ac
+23115	23615	7400926565461232	lib/libgtestd.a	23e460d5beed6707
+23641	23903	7400926568350552	lib/libgtest_maind.a	d352a4e729665cb9
+23615	23961	7400926568922104	lib/libgmockd.a	bbffc48d62cd2b12
+23961	24341	7400926572721110	lib/libgmock_maind.a	4903a5ffdee1ebff
+23904	25017	7400926579281134	gtests/tests.exe	90df450e8778f9fe
