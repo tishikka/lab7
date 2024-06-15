@@ -2,7 +2,7 @@
 #include "../grid.h"
 
 void test_correct() {
-    assert(canReachInTime(0, 0, 3, 3, 6) == true);
+    assert(canReachInTime(0, 0, 3, 3, 3) == true);
 }
 
 int main() {

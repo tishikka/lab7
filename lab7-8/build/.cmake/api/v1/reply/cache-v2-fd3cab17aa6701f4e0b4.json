@@ -67,7 +67,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/proga/lab7/lab7-4/build"
+			"value" : "c:/proga/lab7/lab7-8/build"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -151,10 +151,10 @@
 				},
 				{
 					"name" : "HELPSTRING",
-					"value" : "CXX compiler"
+					"value" : "No help, variable specified on the command line."
 				}
 			],
-			"type" : "STRING",
+			"type" : "FILEPATH",
 			"value" : "C:/msys64/mingw64/bin/g++.exe"
 		},
 		{
@@ -295,10 +295,10 @@
 				},
 				{
 					"name" : "HELPSTRING",
-					"value" : "C compiler"
+					"value" : "No help, variable specified on the command line."
 				}
 			],
-			"type" : "STRING",
+			"type" : "FILEPATH",
 			"value" : "C:/msys64/mingw64/bin/gcc.exe"
 		},
 		{
@@ -571,7 +571,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/proga/lab7/lab7-4/build/CMakeFiles/pkgRedirects"
+			"value" : "C:/proga/lab7/lab7-8/build/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -643,7 +643,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/proga/lab7/lab7-4"
+			"value" : "C:/proga/lab7/lab7-8"
 		},
 		{
 			"name" : "CMAKE_INSTALL_BINDIR",
@@ -1595,7 +1595,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "C:/proga/lab7/lab7-4/build/_deps"
+			"value" : "C:/proga/lab7/lab7-8/build/_deps"
 		},
 		{
 			"name" : "FETCHCONTENT_FULLY_DISCONNECTED",
@@ -1787,7 +1787,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/proga/lab7/lab7-4/build/_deps/googletest-build/googletest/generated"
+			"value" : "C:/proga/lab7/lab7-8/build/_deps/googletest-build/googletest/generated"
 		},
 		{
 			"name" : "gmock_BINARY_DIR",
@@ -1799,7 +1799,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/proga/lab7/lab7-4/build/_deps/googletest-build/googlemock"
+			"value" : "C:/proga/lab7/lab7-8/build/_deps/googletest-build/googlemock"
 		},
 		{
 			"name" : "gmock_IS_TOP_LEVEL",
@@ -1835,7 +1835,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/proga/lab7/lab7-4/build/_deps/googletest-src/googlemock"
+			"value" : "C:/proga/lab7/lab7-8/build/_deps/googletest-src/googlemock"
 		},
 		{
 			"name" : "gmock_build_tests",
@@ -1875,7 +1875,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/proga/lab7/lab7-4/build/_deps/googletest-build"
+			"value" : "C:/proga/lab7/lab7-8/build/_deps/googletest-build"
 		},
 		{
 			"name" : "googletest-distribution_IS_TOP_LEVEL",
@@ -1899,7 +1899,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/proga/lab7/lab7-4/build/_deps/googletest-src"
+			"value" : "C:/proga/lab7/lab7-8/build/_deps/googletest-src"
 		},
 		{
 			"name" : "gtest_BINARY_DIR",
@@ -1911,7 +1911,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/proga/lab7/lab7-4/build/_deps/googletest-build/googletest"
+			"value" : "C:/proga/lab7/lab7-8/build/_deps/googletest-build/googletest"
 		},
 		{
 			"name" : "gtest_IS_TOP_LEVEL",
@@ -1935,7 +1935,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/proga/lab7/lab7-4/build/_deps/googletest-src/googletest"
+			"value" : "C:/proga/lab7/lab7-8/build/_deps/googletest-src/googletest"
 		},
 		{
 			"name" : "gtest_build_samples",
@@ -2051,7 +2051,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/proga/lab7/lab7-4/build"
+			"value" : "C:/proga/lab7/lab7-8/build"
 		},
 		{
 			"name" : "unittests_IS_TOP_LEVEL",
@@ -2075,7 +2075,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/proga/lab7/lab7-4"
+			"value" : "C:/proga/lab7/lab7-8"
 		}
 	],
 	"kind" : "cache",

@@ -8,7 +8,7 @@ void test_correct() {
 }
 
 void test_incorrect() {
-    assert(!find_person_with_mop(5,0) == 2);
+    assert(!find_person_with_mop(5,0) == 0);
 }
 
 void test_skip_spaces() {

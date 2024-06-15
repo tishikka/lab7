@@ -1,0 +1,19 @@
+Start testing: Jun 15 11:26 Новосибирское стандартное время
+----------------------------------------------------------
+1/1 Testing: wert
+1/1 Test: wert
+Command: "C:/proga/lab7/lab7-2/build/tests/test3.exe" "COMMAND" "test3"
+Directory: C:/proga/lab7/lab7-2/build/tests
+"wert" start time: Jun 15 11:26 Новосибирское стандартное время
+Output:
+----------------------------------------------------------
+Assertion failed: canReachInTime(0, 0, 3, 6, 5) == false, file C:/proga/lab7/lab7-2/tests/test3.cpp, line 5
+<end of output>
+Test time =   0.20 sec
+----------------------------------------------------------
+Test Failed.
+"wert" end time: Jun 15 11:26 Новосибирское стандартное время
+"wert" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Jun 15 11:26 Новосибирское стандартное время

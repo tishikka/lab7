@@ -2,7 +2,7 @@
 #include "../grid.h"
 
 void test_skip_spaces() {
-    assert(canReachInTime(2, 2, 2, 2, 0) == true);
+    assert(canReachInTime(0, 0, 3, 6, 5) == false);
 }
 
 int main() {

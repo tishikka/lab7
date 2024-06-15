@@ -1,17 +1,7 @@
 # ninja log v5
 24	1128	7395296890126700	CMakeFiles/mop_logic.dir/mop_logic.cpp.obj	cf136c9f7129ffb9
-885	1172	7395317774401222	test_assert.exe	cb4fd9b53edea1b7
+879	1272	7401276575031613	test_assert.exe	cb4fd9b53edea1b7
 24	334	7394761152350202	CMakeFiles/qwerty.dir/test_assert.cpp.obj	94ce6d4cdbc414a3
 1128	1348	7395296892448614	libmop_logic.a	ee9021d59d5e181c
 823	1410	7394761163007960	qwerty.exe	6391bd94f70fb05e
-19	884	7395317771405338	CMakeFiles/test_assert.dir/test_assert.cpp.obj	cf92fba220a6700
-20	899	7395362604275342	CMakeFiles/test_assert.dir/test_assert.cpp.obj	cf92fba220a6700
-900	1224	7395362607493239	test_assert.exe	cb4fd9b53edea1b7
-25	689	7395362949552008	CMakeFiles/test_assert.dir/test_assert.cpp.obj	cf92fba220a6700
-690	965	7395362952196478	test_assert.exe	cb4fd9b53edea1b7
-26	714	7395363442483506	CMakeFiles/test_assert.dir/test_assert.cpp.obj	cf92fba220a6700
-715	1056	7395363445820717	test_assert.exe	cb4fd9b53edea1b7
-22	625	7395363856313143	CMakeFiles/test_assert.dir/test_assert.cpp.obj	cf92fba220a6700
-626	864	7395363858644374	test_assert.exe	cb4fd9b53edea1b7
-28	691	7395364083809018	CMakeFiles/test_assert.dir/test_assert.cpp.obj	cf92fba220a6700
-692	923	7395364086055965	test_assert.exe	cb4fd9b53edea1b7
+11	878	7401276571282578	CMakeFiles/test_assert.dir/test_assert.cpp.obj	cf92fba220a6700
