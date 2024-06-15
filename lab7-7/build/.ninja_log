@@ -1,14 +1,12 @@
 # ninja log v5
 163	9879	7400910616825076	_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj	6e4e94d9a3e0548f
-19	1162	7400919234683731	gtests/CMakeFiles/tests.dir/__/task7.cpp.obj	265e85cc60e31310
+17	1472	7401297268435669	gtests/CMakeFiles/tests.dir/__/task7.cpp.obj	265e85cc60e31310
 9	10391	7400910623033371	gtests/CMakeFiles/tests.dir/tests.cpp.obj	68b3b6224436d773
 65	11210	7400910631331250	_deps/googletest-build/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.obj	1357985635122ddb
 51	755	7400910815172280	lib/libgtestd.a	23e460d5beed6707
 44	15437	7400910674079308	_deps/googletest-build/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.obj	b343eca900f5e8e1
-1163	2137	7400919244294716	gtests/tests.exe	e844c3c260ca0c75
+1472	2456	7401297278129120	gtests/tests.exe	e844c3c260ca0c75
 113	27348	7400910792963515	_deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj	cd1fcda8d60e2005
 756	1754	7400910825232775	lib/libgmockd.a	bbffc48d62cd2b12
 781	1577	7400910823067169	lib/libgtest_maind.a	d352a4e729665cb9
 44	346	7400910907505739	lib/libgmock_maind.a	4903a5ffdee1ebff
-17	1472	7401297268435669	gtests/CMakeFiles/tests.dir/__/task7.cpp.obj	265e85cc60e31310
-1472	2456	7401297278129120	gtests/tests.exe	e844c3c260ca0c75

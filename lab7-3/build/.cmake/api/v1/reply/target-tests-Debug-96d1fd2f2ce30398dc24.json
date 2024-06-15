@@ -90,17 +90,17 @@
 			[
 				{
 					"backtrace" : 5,
-					"path" : "C:/proga/lab7/lab7-7"
+					"path" : "C:/proga/lab7/lab7-3"
 				},
 				{
 					"backtrace" : 2,
 					"isSystem" : true,
-					"path" : "C:/proga/lab7/lab7-7/build/_deps/googletest-src/googletest/include"
+					"path" : "C:/proga/lab7/lab7-3/build/_deps/googletest-src/googletest/include"
 				},
 				{
 					"backtrace" : 2,
 					"isSystem" : true,
-					"path" : "C:/proga/lab7/lab7-7/build/_deps/googletest-src/googletest"
+					"path" : "C:/proga/lab7/lab7-3/build/_deps/googletest-src/googletest"
 				}
 			],
 			"language" : "CXX",
@@ -194,7 +194,7 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "task7.cpp",
+			"path" : "calculator.cpp",
 			"sourceGroupIndex" : 0
 		}
 	],

@@ -161,35 +161,35 @@
 				{
 					"directoryIndex" : 3,
 					"id" : "gmock::@0f7bb11d64f3678238c7",
-					"jsonFile" : "target-gmock-Debug-93fd814c45741ac1a238.json",
+					"jsonFile" : "target-gmock-Debug-d40c43f41eb74a12a5de.json",
 					"name" : "gmock",
 					"projectIndex" : 2
 				},
 				{
 					"directoryIndex" : 3,
 					"id" : "gmock_main::@0f7bb11d64f3678238c7",
-					"jsonFile" : "target-gmock_main-Debug-4ffed471ed7ae5bdd60a.json",
+					"jsonFile" : "target-gmock_main-Debug-aabdb53e2aeb1d4640e4.json",
 					"name" : "gmock_main",
 					"projectIndex" : 2
 				},
 				{
 					"directoryIndex" : 4,
 					"id" : "gtest::@1ea2dfc0605fe3ab2a3f",
-					"jsonFile" : "target-gtest-Debug-afbbffb51dc1edc4f24a.json",
+					"jsonFile" : "target-gtest-Debug-9dc3c33d979a48619c33.json",
 					"name" : "gtest",
 					"projectIndex" : 3
 				},
 				{
 					"directoryIndex" : 4,
 					"id" : "gtest_main::@1ea2dfc0605fe3ab2a3f",
-					"jsonFile" : "target-gtest_main-Debug-bf347bc94d92f137d356.json",
+					"jsonFile" : "target-gtest_main-Debug-13e3dfe65b41e34c2231.json",
 					"name" : "gtest_main",
 					"projectIndex" : 3
 				},
 				{
 					"directoryIndex" : 1,
 					"id" : "tests::@ed8f849d7d6434676105",
-					"jsonFile" : "target-tests-Debug-ef3887e173ba103f500d.json",
+					"jsonFile" : "target-tests-Debug-554c93716dba03f639f1.json",
 					"name" : "tests",
 					"projectIndex" : 0
 				}
@@ -199,8 +199,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/proga/lab7/lab7-8/build",
-		"source" : "C:/proga/lab7/lab7-8"
+		"build" : "C:/proga/lab7/lab7-7/build",
+		"source" : "C:/proga/lab7/lab7-7"
 	},
 	"version" : 
 	{
